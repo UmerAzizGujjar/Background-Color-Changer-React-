@@ -13,7 +13,7 @@ This project helps beginners understand **React state (useState)**, **props**, a
 - Beginner-friendly React code structure  
 
 ---
-🔗 **Live Demo:** [Click here to view](https://background-color-changer.vercel.app/)
+🔗 **Live Demo:** [Click here to view]([https://background-color-changer.vercel.app/](https://background-color-changer-react-ashy.vercel.app/))
 
 ---
 
